@@ -1,0 +1,3 @@
+./apps/*/node_modules
+./apps/*/package-lock.json
+./apps/*/.env
